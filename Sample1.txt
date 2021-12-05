@@ -1,0 +1,5 @@
+def swapDataFile():
+    data_a=input("This is text from file 1")
+
+data_a=open("Sample1.txt", 'r')
+data_a=open("Sample2.txt", 'w')
